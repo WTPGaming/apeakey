@@ -4,8 +4,6 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:8
 #EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/WTPGaming/apeakey/main/keyDecrypt?token=APELOKJ6VMLLZ4BCKAP56WLBXJXBE",IV=0x0a0709315f83a31a4e78d7367c1bd43c
-#EXTINF:7.280000,
-https://s3.amazonaws.com/apeatcodedvids/2021_OnlineRC/Preg/pregnancy100000.ts
 #EXTINF:7.200000,
 https://s3.amazonaws.com/apeatcodedvids/2021_OnlineRC/Preg/pregnancy100001.ts
 #EXTINF:3.600000,
